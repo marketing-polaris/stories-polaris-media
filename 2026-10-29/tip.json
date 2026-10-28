@@ -1,0 +1,28 @@
+{
+  "tema": "Elige cuándo estudiar (madrugar, noche, huecos)",
+  "gancho": {
+    "titular": ["No hay", "hora", "buena", "ni mala."],
+    "subtitulo_linea1": "Hay una que encaja contigo:",
+    "subtitulo_linea2": "la que puedes",
+    "subrayado": "mantener.",
+    "teaser": "En la siguiente story: tres momentos para encontrar el tuyo.",
+    "ilustracion_alt": "Un sol arriba y una luna abajo unidos por un camino con tres paradas",
+    "ilustracion_svg": "<circle cx=\"230\" cy=\"120\" r=\"56\" fill=\"#FE834A\"/><path d=\"M230 24 L231 44 M230 196 L229 216 M134 121 L154 120 M306 119 L326 120 M163 54 L177 68 M284 173 L297 186 M296 54 L283 68 M176 172 L162 186\" fill=\"none\" stroke=\"#FE834A\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M228 238 C 150 290, 300 340, 200 400 S 140 470, 196 486\" fill=\"none\" stroke=\"#FFCC8E\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-dasharray=\"14 16\"/><circle cx=\"236\" cy=\"318\" r=\"11\" fill=\"#FFFEFA\"/><circle cx=\"176\" cy=\"420\" r=\"11\" fill=\"#FFFEFA\"/><path d=\"M222 504 C 150 512, 130 612, 206 630 C 250 640, 290 610, 296 580 C 250 600, 200 570, 222 504 Z\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M330 500 L330 528 M316 514 L344 514 M90 560 L90 580 M80 570 L100 570\" fill=\"none\" stroke=\"#FFE45E\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  "opciones": {
+    "titular_l1": "Elige tu",
+    "titular_l2": "momento.",
+    "subtitulo_l1": "Tres franjas para meter tus horas.",
+    "subtitulo_l2": "Ninguna es la buena.",
+    "items": [
+      { "etiqueta": "Mañana", "titulo": "Si por la mañana rindes", "texto": "Antes del curro y de que despierte la casa." },
+      { "etiqueta": "Noche", "titulo": "Si de noche tienes foco", "texto": "Con la casa en calma. Pon hora fija de cierre." },
+      { "etiqueta": "Huecos", "titulo": "Si tu día va a trozos", "texto": "Tren, comida, esperas. 15 min también suman." }
+    ],
+    "cierre": "Tu hora es la que",
+    "cierre_subrayado": "puedes mantener.",
+    "cta": { "tipo": "bio", "pregunta": "¿Cuál es tu momento?" },
+    "ilustracion_alt": "Despertador con las agujas marcando una hora",
+    "ilustracion_svg": "<path class=\"anim a-fill pop\" d=\"M58 82 C 58 50, 90 30, 118 44 Z\" fill=\"#FE834A\"/><path class=\"anim a-fill pop\" d=\"M242 82 C 242 50, 210 30, 182 44 Z\" fill=\"#FE834A\"/><circle class=\"anim a-illu\" cx=\"150\" cy=\"158\" r=\"98\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\"/><path class=\"anim a-illu\" d=\"M58 82 C 58 50, 90 30, 118 44 Z M242 82 C 242 50, 210 30, 182 44 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M150 158 L151 98 M150 158 L196 182 M84 236 L66 270 M216 236 L234 270 M150 66 L150 78 M242 158 L230 158 M150 250 L150 238 M58 158 L70 158\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\"/><circle class=\"anim a-fill pop\" cx=\"150\" cy=\"158\" r=\"10\" fill=\"#40312B\"/>"
+  }
+}
