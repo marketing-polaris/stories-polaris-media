@@ -1,0 +1,28 @@
+{
+  "tema": "Elige cómo descansar (moverte, siesta corta, despejar la cabeza)",
+  "gancho": {
+    "titular": ["No hay", "pausa", "buena", "ni mala."],
+    "subtitulo_linea1": "Hay una que te recarga:",
+    "subtitulo_linea2": "la que puedes",
+    "subrayado": "mantener.",
+    "teaser": "En la siguiente story: tres pausas para encontrar la tuya.",
+    "ilustracion_alt": "Taza de café humeante cuyo vapor sube hacia una estrella",
+    "ilustracion_svg": "<path d=\"M88 430 C 150 446, 250 416, 314 430 C 306 500, 280 544, 200 547 C 120 544, 96 500, 88 430 Z\" fill=\"#FE834A\"/><path d=\"M80 380 C 82 480, 110 552, 200 556 C 290 552, 318 480, 320 380 Z\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M318 412 C 388 404, 392 502, 306 500\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M30 602 C 120 622, 280 622, 370 602\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M145 345 C 115 300, 172 262, 142 214 S 160 160, 150 140 M200 345 C 170 296, 228 258, 198 206 S 214 156, 204 136 M255 345 C 225 300, 282 262, 252 214 S 268 162, 258 142\" fill=\"none\" stroke=\"#FFCC8E\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M200 10 C 206 48, 214 56, 250 62 C 214 68, 206 76, 200 114 C 194 76, 186 68, 150 62 C 186 56, 194 48, 200 10 Z\" fill=\"#FFE45E\"/><path d=\"M330 130 L330 156 M317 143 L343 143 M70 170 L70 190 M60 180 L80 180\" fill=\"none\" stroke=\"#FFE45E\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  "opciones": {
+    "titular_l1": "Elige tu",
+    "titular_l2": "descanso.",
+    "subtitulo_l1": "Tres formas de parar sin culpa.",
+    "subtitulo_l2": "Ninguna es la buena.",
+    "items": [
+      { "etiqueta": "Moverte", "titulo": "Si te pesa la silla", "texto": "Cinco minutos de paseo. Agua. Y vuelves." },
+      { "etiqueta": "Siesta", "titulo": "Si te cae el sueño", "texto": "20 min con alarma. Más te funde la tarde." },
+      { "etiqueta": "Aire", "titulo": "Si tienes la cabeza llena", "texto": "Sin móvil. Mira por la ventana y respira." }
+    ],
+    "cierre": "Tu pausa es la que",
+    "cierre_subrayado": "puedes mantener.",
+    "cta": { "tipo": "dm", "pregunta": "¿Con cuál te quedas?" },
+    "ilustracion_alt": "Taza de café humeante sobre un plato",
+    "ilustracion_svg": "<path class=\"anim a-fill pop\" d=\"M66 160 C 100 172, 170 150, 205 160 C 200 205, 180 228, 135 229 C 92 228, 72 205, 66 160 Z\" fill=\"#FE834A\"/><path class=\"anim a-illu\" d=\"M60 120 C 62 190, 80 232, 135 234 C 190 232, 208 190, 210 120 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M208 140 C 254 134, 258 200, 202 196\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M28 256 C 90 270, 190 270, 252 256\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\"/><path class=\"anim a-illu\" d=\"M100 100 C 84 78, 118 62, 100 36\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\"/><path class=\"anim a-illu\" d=\"M137 100 C 120 76, 156 58, 136 26\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\"/><path class=\"anim a-illu\" d=\"M174 100 C 158 78, 192 62, 174 38\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\"/>"
+  }
+}
