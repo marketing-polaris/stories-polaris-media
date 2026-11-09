@@ -1,0 +1,48 @@
+{
+  "tema": "Elige dónde estudiar (casa, biblioteca, transporte)",
+  "gancho": {
+    "titular": [
+      "No hay",
+      "sitio",
+      "bueno",
+      "ni malo."
+    ],
+    "subtitulo_linea1": "Hay uno que encaja contigo:",
+    "subtitulo_linea2": "el que puedes",
+    "subrayado": "mantener.",
+    "teaser": "En la siguiente story: tres sitios para encontrar el tuyo.",
+    "ilustracion_alt": "Un pin de ubicación arriba unido por un camino a una casa",
+    "ilustracion_svg": "<path d=\"M200 272 C 152 204, 112 166, 112 118 C 112 66, 152 30, 202 31 C 252 32, 290 68, 289 120 C 288 166, 248 204, 200 272 Z\" fill=\"none\" stroke=\"#FE834A\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"201\" cy=\"118\" r=\"36\" fill=\"#FFCC8E\"/><path d=\"M200 300 C 110 350, 300 390, 196 440 S 120 478, 172 500\" fill=\"none\" stroke=\"#FFCC8E\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-dasharray=\"14 16\"/><path d=\"M62 566 L 176 492 L 290 568 M90 550 L 92 630 L 262 629 L 264 552\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M156 629 L 157 580 L 198 579 L 199 628\" fill=\"none\" stroke=\"#FE834A\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M338 300 L338 328 M324 314 L352 314 M70 210 L70 230 M60 220 L80 220\" fill=\"none\" stroke=\"#FFE45E\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  "opciones": {
+    "titular_l1": "Elige tu",
+    "titular_l2": "sitio.",
+    "subtitulo_l1": "Tres lugares para meter tus horas.",
+    "subtitulo_l2": "Ninguno es el bueno.",
+    "items": [
+      {
+        "etiqueta": "Casa",
+        "titulo": "Si en casa te concentras",
+        "texto": "Mesa fija y el móvil en otra habitación."
+      },
+      {
+        "etiqueta": "Biblio",
+        "titulo": "Si en casa no hay manera",
+        "texto": "Biblioteca o sala de estudio. Horario y foco."
+      },
+      {
+        "etiqueta": "Tren",
+        "titulo": "Si pasas horas viajando",
+        "texto": "Tren, bus o metro. Audios y tarjetas en el móvil."
+      }
+    ],
+    "cierre": "Tu sitio es el que",
+    "cierre_subrayado": "puedes mantener.",
+    "cta": {
+      "tipo": "bio",
+      "pregunta": "¿Dónde estudias tú?"
+    },
+    "ilustracion_alt": "Pin de ubicación clavado sobre un libro abierto",
+    "ilustracion_svg": "<circle class=\"anim a-fill pop\" cx=\"150\" cy=\"104\" r=\"30\" fill=\"#FE834A\"/><path class=\"anim a-illu\" d=\"M150 232 C 112 178, 86 150, 86 106 C 86 60, 116 30, 151 31 C 186 32, 214 62, 213 106 C 212 150, 188 178, 150 232 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M40 246 C 90 226, 124 230, 150 250 C 176 230, 210 226, 260 246 L 259 280 C 210 262, 176 264, 150 284 C 124 264, 90 262, 41 280 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M150 252 L 150 282\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\"/>"
+  }
+}
