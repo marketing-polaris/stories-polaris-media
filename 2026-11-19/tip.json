@@ -1,0 +1,28 @@
+{
+  "tema": "Elige cómo hacer test (por temas, mezclados, cronometrados)",
+  "gancho": {
+    "titular": ["No hay", "test", "bueno", "ni malo."],
+    "subtitulo_linea1": "Hay una que encaja contigo:",
+    "subtitulo_linea2": "la que puedes",
+    "subrayado": "mantener.",
+    "teaser": "En la siguiente story: tres formas de hacer test.",
+    "ilustracion_alt": "Hoja de test con tres casillas, dos marcadas, y un lápiz",
+    "ilustracion_svg": "<path d=\"M72 92 C 150 86, 250 90, 330 94 L 326 548 C 250 552, 150 550, 76 546 Z\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M110 170 L 152 168 L 154 210 L 112 212 Z M110 290 L 152 288 L 154 330 L 112 332 Z M110 410 L 152 408 L 154 450 L 112 452 Z\" fill=\"none\" stroke=\"#FFCC8E\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M118 190 L 132 206 L 162 158 M118 430 L 132 446 L 162 398\" fill=\"none\" stroke=\"#FE834A\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M184 190 L 290 188 M184 310 L 270 309 M184 430 L 296 428\" fill=\"none\" stroke=\"#FFCC8E\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M250 630 L 236 586 L 352 470 L 382 500 L 266 616 Z M236 586 L 266 616\" fill=\"none\" stroke=\"#FE834A\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M330 30 L330 58 M316 44 L344 44 M44 40 L44 60 M34 50 L54 50\" fill=\"none\" stroke=\"#FFE45E\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  "opciones": {
+    "titular_l1": "Elige tu",
+    "titular_l2": "test.",
+    "subtitulo_l1": "Tres formas de hacer test.",
+    "subtitulo_l2": "Ninguna es la buena.",
+    "items": [
+      { "etiqueta": "Tema", "titulo": "Si acabas de estudiarlo", "texto": "Test del tema recién visto. Fija lo nuevo." },
+      { "etiqueta": "Mezcla", "titulo": "Si ya llevas varios temas", "texto": "Preguntas de todo. Encuentras tu punto ciego." },
+      { "etiqueta": "Reloj", "titulo": "Si quieres ritmo de examen", "texto": "Con tiempo y sin pausas. Como el día D." }
+    ],
+    "cierre": "La buena es la que",
+    "cierre_subrayado": "puedes mantener.",
+    "cta": { "tipo": "dm", "pregunta": "¿Con cuál te quedas?" },
+    "ilustracion_alt": "Hoja de test con tres respuestas y una casilla marcada",
+    "ilustracion_svg": "<path class=\"anim a-fill pop\" d=\"M78 128 L 112 127 L 113 160 L 79 161 Z\" fill=\"#FE834A\"/><path class=\"anim a-illu\" d=\"M44 22 C 120 18, 190 20, 258 24 L 254 270 C 190 274, 120 272, 48 268 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M78 60 L 112 59 L 113 92 L 79 93 Z M78 128 L 112 127 L 113 160 L 79 161 Z M78 196 L 112 195 L 113 228 L 79 229 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M134 76 L 222 75 M134 144 L 212 143 M134 212 L 226 211\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\"/><path class=\"anim a-illu\" d=\"M84 144 L 96 158 L 124 116\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/>"
+  }
+}
