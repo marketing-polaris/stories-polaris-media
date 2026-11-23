@@ -1,0 +1,28 @@
+{
+  "tema": "Elige cómo memorizar artículos (en voz alta, reglas mnemotécnicas, escribirlos de memoria)",
+  "gancho": {
+    "titular": ["No hay", "truco", "bueno", "ni malo."],
+    "subtitulo_linea1": "Hay uno que encaja contigo:",
+    "subtitulo_linea2": "el que puedes",
+    "subrayado": "mantener.",
+    "teaser": "En la siguiente story: tres formas de memorizar artículos.",
+    "ilustracion_alt": "Cajonera de la memoria con un cajón abierto lleno de folios",
+    "ilustracion_svg": "<path d=\"M80 130 C 160 124, 250 126, 320 132 L 316 600 C 240 604, 160 602, 84 598 Z\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M84 285 L 318 288 M84 445 L 317 448\" fill=\"none\" stroke=\"#FFFEFA\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M178 210 L 222 211 M178 525 L 222 526\" fill=\"none\" stroke=\"#FFCC8E\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M110 345 L 122 300 L 190 305 L 184 345 M204 345 L 220 296 L 284 304 L 272 345\" fill=\"#40312B\" stroke=\"#FFCC8E\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M44 340 C 140 335, 260 336, 356 342 L 352 432 C 260 437, 140 436, 48 430 Z\" fill=\"#40312B\" stroke=\"#FE834A\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M176 386 L 224 387\" fill=\"none\" stroke=\"#FE834A\" stroke-width=\"8\" stroke-linecap=\"round\"/><path d=\"M330 26 L330 58 M314 42 L346 42 M60 60 L60 82 M49 71 L71 71\" fill=\"none\" stroke=\"#FFE45E\" stroke-width=\"5\" stroke-linecap=\"round\"/>"
+  },
+  "opciones": {
+    "titular_l1": "Elige tu",
+    "titular_l2": "truco.",
+    "subtitulo_l1": "Tres formas de fijar un artículo.",
+    "subtitulo_l2": "Ninguna es la buena.",
+    "items": [
+      { "etiqueta": "Voz", "titulo": "Si se te va la cabeza", "texto": "Léelo en voz alta. Tu oído también estudia." },
+      { "etiqueta": "Truco", "titulo": "Si te bailan los números", "texto": "Una regla absurda para cada plazo o cifra." },
+      { "etiqueta": "Mano", "titulo": "Si aprendes haciendo", "texto": "Escríbelo de memoria. Luego corrige." }
+    ],
+    "cierre": "El bueno es el que",
+    "cierre_subrayado": "repites mañana.",
+    "cta": { "tipo": "bio", "pregunta": "¿Cuál vas a probar?" },
+    "ilustracion_alt": "Cajonera con un cajón abierto y un folio dentro",
+    "ilustracion_svg": "<path class=\"anim a-illu\" d=\"M62 28 C 120 24, 190 25, 238 30 L 236 266 C 180 269, 120 268, 64 264 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M64 106 L 236 108 M64 186 L 236 188\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\"/><path class=\"anim a-illu\" d=\"M132 68 L 168 69 M132 228 L 168 229\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\"/><path class=\"anim a-illu\" d=\"M100 146 L 106 120 L 168 123 L 164 146\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-fill pop\" d=\"M38 142 C 110 139, 190 140, 262 144 L 259 206 C 190 209, 110 208, 41 204 Z\" fill=\"#FE834A\"/><path class=\"anim a-illu\" d=\"M38 142 C 110 139, 190 140, 262 144 L 259 206 C 190 209, 110 208, 41 204 Z\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path class=\"anim a-illu\" d=\"M130 174 L 170 175\" pathLength=\"1\" stroke-dasharray=\"1\" stroke-dashoffset=\"0\" fill=\"none\" stroke=\"#40312B\" stroke-width=\"8\" stroke-linecap=\"round\"/>"
+  }
+}
